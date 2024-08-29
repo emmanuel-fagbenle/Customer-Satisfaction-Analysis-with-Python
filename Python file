@@ -1,4 +1,4 @@
-#  importing the necessary Python libraries
+# importing the necessary Python libraries
 import pandas as pd
 data = pd.read_csv("/content/E-commerce_NPA_Dataset(1).csv")
 print(data.head())
@@ -6,7 +6,7 @@ print(data.head())
 #summary statistics of the data
 print(data.describe())
 
-# visualize the distributions of the variables
+#visualize the distributions of the variables
 import matplotlib.pyplot as plt
 
 numeric_cols = ['Age', 'PurchaseAmount', 'PurchaseFrequency', 'ProductQualityRating', 'DeliveryTimeRating', 'CustomerServiceRating', 'WebsiteEaseOfUseRating', 'ReturnRate', 'DiscountUsage']
