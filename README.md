@@ -28,3 +28,7 @@ This project involves analyzing customer satisfaction data to uncover key driver
 ## Results
 
 The analysis revealed critical insights into customer satisfaction, helping to identify areas for improvement in product quality, delivery time, and customer service.
+
+Please click this [Medium link](https://medium.com/@fagbenlee/customer-satisfaction-analysis-with-python-d780c0431ad3)
+
+Thank you for reading.
